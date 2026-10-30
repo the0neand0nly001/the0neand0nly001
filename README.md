@@ -1,4 +1,3 @@
-# Hi, I'm Evan
 
 I build and maintain a personal homelab and develop tools for managing self-hosted services. My projects involve Windows, Linux, Proxmox, Docker, and networking.
 
